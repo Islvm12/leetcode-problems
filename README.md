@@ -25,3 +25,11 @@ I created it to improve my problem-solving skills, stay consistent, and document
 This is a personal learning repo, but suggestions or better approaches to problems are always welcome.
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Islvm12/leetcode-problems/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
