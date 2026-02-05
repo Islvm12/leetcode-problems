@@ -32,4 +32,13 @@ This is a personal learning repo, but suggestions or better approaches to proble
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Islvm12/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
