@@ -41,6 +41,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Array
 |  |
 | ------- |
@@ -53,4 +54,12 @@ This is a personal learning repo, but suggestions or better approaches to proble
 |  |
 | ------- |
 | [3634-minimum-removals-to-balance-array](https://github.com/Islvm12/leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
