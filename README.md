@@ -31,6 +31,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Islvm12/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
 ## Hash Table
@@ -62,4 +63,12 @@ This is a personal learning repo, but suggestions or better approaches to proble
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
