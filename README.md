@@ -42,10 +42,12 @@ This is a personal learning repo, but suggestions or better approaches to proble
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Islvm12/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Islvm12/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Islvm12/leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
@@ -71,4 +73,8 @@ This is a personal learning repo, but suggestions or better approaches to proble
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/0002-add-two-numbers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Islvm12/leetcode-problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
