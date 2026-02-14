@@ -7,7 +7,7 @@ I created it to improve my problem-solving skills, stay consistent, and document
 
 ## 📊 Progress
 
-* Problems solved: 0+ (and growing 🚀)
+* Problems solved: 32+ (and growing 🚀)
 * Current focus: **LeetCode 30-Day Challenge** and **LeetCode 75 study plan**
 
 ---
