@@ -71,10 +71,12 @@ This is a personal learning repo, but suggestions or better approaches to proble
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Islvm12/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Islvm12/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
 ## Trie
 |  |
 | ------- |
