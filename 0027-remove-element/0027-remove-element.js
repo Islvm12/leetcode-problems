@@ -15,7 +15,6 @@ var removeElement = function(nums, val) {
             nums[k] = nums[i];
             k++;
         }
-        console.log(nums)
     }
 
     return k;
