@@ -50,6 +50,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Islvm12/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Islvm12/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Islvm12/leetcode-problems/tree/master/0027-remove-element) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Islvm12/leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
@@ -86,4 +87,5 @@ This is a personal learning repo, but suggestions or better approaches to proble
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Islvm12/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Islvm12/leetcode-problems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
