@@ -3,19 +3,20 @@
  * @param {number} val
  * @return {number}
  */
+// the idea: "K" looks for the "val" and stops at it then it well be replaced with the first "non-val" item that "i" find
+
 var removeElement = function(nums, val) {
-    let pointer = nums.length-1
-    let memory
-    let arr = nums.filter((e)=> e !== val)
-    for(let i=0; i<arr.length; i++){
-        while (nums[pointer] === val) {
-        pointer-=1
+
+    let k = 0;
+
+    for (let i = 0; i < nums.length; i++) {
+
+        if (nums[i] !== val) {
+            nums[k] = nums[i];
+            k++;
         }
-        memory=nums[pointer]
-        if(nums[i] === val){
-            nums[pointer] = nums[i]
-            nums[i] = memory
-        }
+        console.log(nums)
     }
-    return arr.length
+
+    return k;
 };
