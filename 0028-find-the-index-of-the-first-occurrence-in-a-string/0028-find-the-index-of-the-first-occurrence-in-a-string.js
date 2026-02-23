@@ -12,9 +12,7 @@ var strStr = function (haystack, needle) {
     for (let i = 0; i < haySize - pointer + 1; i++) {
         if (haystack.slice(i, i + pointer) === needle) {
             return i;
-        } else if (i === haySize - pointer) {
-            return -1;
         }
-
     }
+    return -1;
 };
