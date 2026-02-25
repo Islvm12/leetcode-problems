@@ -37,10 +37,12 @@ This is a personal learning repo, but suggestions or better approaches to proble
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Islvm12/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Islvm12/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Islvm12/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Islvm12/leetcode-problems/tree/master/0020-valid-parentheses) |
@@ -56,6 +58,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Islvm12/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Islvm12/leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sorting
 |  |
