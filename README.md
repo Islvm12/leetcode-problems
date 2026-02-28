@@ -47,6 +47,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 | [0014-longest-common-prefix](https://github.com/Islvm12/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Islvm12/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islvm12/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Islvm12/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Array
 |  |
