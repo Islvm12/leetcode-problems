@@ -3,8 +3,15 @@
  * @return {number[]}
  */
 var plusOne = function(digits) {
-    // بنحولها لـ BigInt وبنزود 1n (حرف الـ n معناه إن الرقم ده BigInt)
-    let num = BigInt(digits.join("")) + 1n;
-    // نرجعها String وبعدين Array
-    return Array.from(String(num), Number);
+
+    for (let i = digits.length - 1; i >= 0; i--) {
+        if (digits[i] < 9) {
+            digits[i]++;
+            return digits;
+        }
+        digits[i] = 0;
+    }
+    digits.unshift(1);
+    
+    return digits;
 };
