@@ -50,6 +50,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islvm12/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Islvm12/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Islvm12/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +59,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 | [0027-remove-element](https://github.com/Islvm12/leetcode-problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Islvm12/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Islvm12/leetcode-problems/tree/master/0066-plus-one) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Islvm12/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Islvm12/leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Sliding Window
 |  |
@@ -117,4 +119,8 @@ This is a personal learning repo, but suggestions or better approaches to proble
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Islvm12/leetcode-problems/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Islvm12/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
