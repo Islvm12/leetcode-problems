@@ -35,6 +35,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 | [0009-palindrome-number](https://github.com/Islvm12/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Islvm12/leetcode-problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Islvm12/leetcode-problems/tree/master/0067-add-binary) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 | [0020-valid-parentheses](https://github.com/Islvm12/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islvm12/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Islvm12/leetcode-problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Islvm12/leetcode-problems/tree/master/0067-add-binary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Islvm12/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
@@ -122,5 +124,10 @@ This is a personal learning repo, but suggestions or better approaches to proble
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Islvm12/leetcode-problems/tree/master/0067-add-binary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Islvm12/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Islvm12/leetcode-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
