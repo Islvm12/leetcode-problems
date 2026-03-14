@@ -56,6 +56,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Islvm12/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Islvm12/leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Islvm12/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Islvm12/leetcode-problems/tree/master/0027-remove-element) |
@@ -120,6 +121,7 @@ This is a personal learning repo, but suggestions or better approaches to proble
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Islvm12/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Islvm12/leetcode-problems/tree/master/0035-search-insert-position) |
 ## Simulation
 |  |
@@ -130,4 +132,8 @@ This is a personal learning repo, but suggestions or better approaches to proble
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Islvm12/leetcode-problems/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Islvm12/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
