@@ -1,139 +1,24 @@
-# LeetCode Solutions in JavaScript
+# 🚀 LeetCode Problem Solving Journey
 
-This repository contains my solutions to **LeetCode problems** using **JavaScript**.
-I created it to improve my problem-solving skills, stay consistent, and document my progress.
-
----
-
-## 📊 Progress
-
-* Problems solved: 32+ (and growing 🚀)
-* Current focus: **LeetCode 30-Day Challenge** and **LeetCode 75 study plan**
-
----
+Welcome to my LeetCode journey! This repository contains my solutions to algorithmic problems, structured by **Patterns** based on the [NeetCode 150 / Grind 75] roadmap.
 
 ## 🎯 Goals
+- Master Data Structures and Algorithms.
+- Improve problem-solving skills and code efficiency (Time & Space Complexity).
+- Keep a consistent track of my daily progress.
 
-* Solve at least one problem daily to build **consistency**
-* Track progress across different **topics** (arrays, strings, DP, etc.)
-* Improve **problem-solving skills** and **coding patterns** in JavaScript
+## 📂 Repository Structure (Organized by Patterns)
+
+### 1. Arrays & Hashing
+| Status | Problem | Difficulty | Solution | Time | Space |
+| :---: | :--- | :---: | :--- | :---: | :---: |
+| ✅ | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [JavaScript](./01_Arrays_and_Hashing/Contains_Duplicate.js) | $O(n)$ | $O(n)$ |
+| ✅ | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [JavaScript](./01_Arrays_and_Hashing/Two_Sum.js) | $O(n)$ | $O(n)$ |
+
+### 2. Two Pointers
+| Status | Problem | Difficulty | Solution | Time | Space |
+| :---: | :--- | :---: | :--- | :---: | :---: |
+| 🔄 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | [JavaScript](./02_Two_Pointers/Valid_Palindrome.js) | $O(n)$ | $O(1)$ |
 
 ---
-
-## 🤝 Contributions
-
-This is a personal learning repo, but suggestions or better approaches to problems are always welcome.
-
----
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/0002-add-two-numbers) |
-| [0009-palindrome-number](https://github.com/Islvm12/leetcode-problems/tree/master/0009-palindrome-number) |
-| [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
-| [0066-plus-one](https://github.com/Islvm12/leetcode-problems/tree/master/0066-plus-one) |
-| [0067-add-binary](https://github.com/Islvm12/leetcode-problems/tree/master/0067-add-binary) |
-## Hash Table
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Islvm12/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Islvm12/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/Islvm12/leetcode-problems/tree/master/0013-roman-to-integer) |
-| [0014-longest-common-prefix](https://github.com/Islvm12/leetcode-problems/tree/master/0014-longest-common-prefix) |
-| [0020-valid-parentheses](https://github.com/Islvm12/leetcode-problems/tree/master/0020-valid-parentheses) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islvm12/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0058-length-of-last-word](https://github.com/Islvm12/leetcode-problems/tree/master/0058-length-of-last-word) |
-| [0067-add-binary](https://github.com/Islvm12/leetcode-problems/tree/master/0067-add-binary) |
-| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
-| [2011-final-value-of-variable-after-performing-operations](https://github.com/Islvm12/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
-## Array
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Islvm12/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
-| [0014-longest-common-prefix](https://github.com/Islvm12/leetcode-problems/tree/master/0014-longest-common-prefix) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Islvm12/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/Islvm12/leetcode-problems/tree/master/0027-remove-element) |
-| [0035-search-insert-position](https://github.com/Islvm12/leetcode-problems/tree/master/0035-search-insert-position) |
-| [0066-plus-one](https://github.com/Islvm12/leetcode-problems/tree/master/0066-plus-one) |
-| [2011-final-value-of-variable-after-performing-operations](https://github.com/Islvm12/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
-| [3634-minimum-removals-to-balance-array](https://github.com/Islvm12/leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Islvm12/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
-| [3634-minimum-removals-to-balance-array](https://github.com/Islvm12/leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
-## Sorting
-|  |
-| ------- |
-| [3634-minimum-removals-to-balance-array](https://github.com/Islvm12/leetcode-problems/tree/master/3634-minimum-removals-to-balance-array) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/Islvm12/leetcode-problems/tree/master/0020-valid-parentheses) |
-| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Islvm12/leetcode-problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/Islvm12/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/0002-add-two-numbers) |
-| [0021-merge-two-sorted-lists](https://github.com/Islvm12/leetcode-problems/tree/master/0021-merge-two-sorted-lists) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/Islvm12/leetcode-problems/tree/master/0014-longest-common-prefix) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Islvm12/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/Islvm12/leetcode-problems/tree/master/0027-remove-element) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islvm12/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Islvm12/leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Tree
-|  |
-| ------- |
-| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
-## Depth-First Search
-|  |
-| ------- |
-| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
-## Binary Tree
-|  |
-| ------- |
-| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Islvm12/leetcode-problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Islvm12/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
-| [0035-search-insert-position](https://github.com/Islvm12/leetcode-problems/tree/master/0035-search-insert-position) |
-## Simulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/Islvm12/leetcode-problems/tree/master/0067-add-binary) |
-| [2011-final-value-of-variable-after-performing-operations](https://github.com/Islvm12/leetcode-problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0067-add-binary](https://github.com/Islvm12/leetcode-problems/tree/master/0067-add-binary) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/Islvm12/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
-<!---LeetCode Topics End-->
+*Note: This repository is regularly updated as I solve more problems.*
