@@ -22,3 +22,18 @@ Welcome to my LeetCode journey! This repository contains my solutions to algorit
 
 ---
 *Note: This repository is regularly updated as I solve more problems.*
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Islvm12/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Islvm12/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Islvm12/leetcode-problems/tree/main/0217-contains-duplicate/) | Easy |
+<!---LeetCode Topics End-->
